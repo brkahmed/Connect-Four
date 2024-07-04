@@ -1,6 +1,8 @@
 # Connect Four Game
 
-This is a simple implementation of the classic Connect Four game using Python and Pygame.
+<p align=center><img src='./screenshot.jpg' alt='screenshot from the game'/></p>
+
+- This is a simple implementation of the classic Connect Four game using Python and Pygame.
 
 ## Requirements
 
